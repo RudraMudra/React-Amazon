@@ -9,8 +9,8 @@
    3. render products
    4. style products
 3. Adding page routing
-   2. creating home screen router
-   3. creating product screen router
+   1. creating home screen router
+   2. creating product screen router
 4. Creating Node.JS Server
    1. Adding .js to imports
    2. creating server.js
