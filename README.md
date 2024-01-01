@@ -13,7 +13,7 @@ Welcome to my Repo i have come with a fully-functional e-commerce website exactl
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:TYRANNY905/React-Amazon.git
+$ git clone git@github.com:RudraMudra/React-Amazon.git
 $ cd Amazon
 
 ```
