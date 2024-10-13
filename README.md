@@ -39,27 +39,6 @@ Because who doesn’t like seamless, secure online payments? 💰 Just whip out 
 
 ---
 
-### How to Get Started? 🔥
-
-1. **Clone it!**  
-   ```bash
-   git clone https://github.com/your-epic-repo/MERN-Amazon.git
-   ```
-
-2. **Install dependencies**  
-   ```bash
-   npm install
-   ```
-
-3. **Fire it up!**  
-   ```bash
-   npm start
-   ```
-
-4. **Enjoy your e-commerce empire!** 👑
-
----
-
 ### Disclaimer: 
 This project may make you feel like Jeff Bezos. Side effects include sudden urges to build rockets, become a trillionaire, or open an online bookstore.
 
