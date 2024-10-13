@@ -40,11 +40,11 @@ Because who doesn’t like seamless, secure online payments? 💰 Just whip out 
 ---
 
 ### Disclaimer: 
-This project may make you feel like Jeff Bezos. Side effects include sudden urges to build rockets, become a trillionaire, or open an online bookstore.
+This project may make you feel like Jeff Bezos 💪. Side effects include sudden urges to build rockets 🚀, become a trillionaire 💵, or open an online bookstore 📚.
 
 ---
 
-Feel free to drop me a ⭐ if you had fun building this! Now, let’s conquer the world of e-commerce – one line of code at a time. 💪
+
 
 
 
