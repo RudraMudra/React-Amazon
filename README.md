@@ -1,8 +1,6 @@
 # MERN AMAZON
 
 
-Sure! Here's a quirky and fun README description for your MERN Amazon project:
-
 ---
 
 # 🚀 MERN Amazon Clone 🎉  
